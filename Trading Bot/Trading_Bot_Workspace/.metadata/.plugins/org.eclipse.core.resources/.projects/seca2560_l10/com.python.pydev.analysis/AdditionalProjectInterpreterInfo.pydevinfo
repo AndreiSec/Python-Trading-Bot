@@ -1,0 +1,29 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\seca2560_l10\com.python.pydev.analysis\v2_indexcache
+t01|1585688387000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_l10\src\t01.py
+test_Sorts_array|1585688322000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_l10\src\test_Sorts_array.py
+test_Sorts_List_linked|1585688316000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_l10\src\test_Sorts_List_linked.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+6=t01
+5=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_l10\src\t01.py
+1=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_l10\src\test_Sorts_List_linked.py
+4=test_Sorts_array
+3=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_l10\src\test_Sorts_array.py
+2=test_Sorts_List_linked
+-- END DICTIONARY
+-- START TREE 1
+7
+cre|6|create_sorted!1^32#5*18@create_sorted!3^37#5*34@create_randoms!3^78#5*34@create_reversed!3^58#5*34@create_reversed!1^53#5*18@create_randoms!1^73#5*18@
+fun|1|func!5^19#1*51@
+siz|2|SIZE!1^19#1*19@SIZE!3^18#1*35@
+sor|2|SORTS!1^29#1*19@SORTS!3^34#1*35@
+tes|4|test_sort!1^99#5*18@test_sort!3^104#5*34@TESTS!1^21#1*19@TESTS!3^20#1*35@
+tit|1|title!5^18#1*51@
+xra|2|XRANGE!1^20#1*19@XRANGE!3^19#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

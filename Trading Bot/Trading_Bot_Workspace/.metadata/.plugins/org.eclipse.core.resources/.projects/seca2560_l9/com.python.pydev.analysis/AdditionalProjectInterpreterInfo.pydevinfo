@@ -1,0 +1,21 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\seca2560_l9\com.python.pydev.analysis\v2_indexcache
+functions|1584558388000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_l9\src\functions.py
+t01|1585286753000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_l9\src\t01.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=functions
+4=t01
+3=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_l9\src\t01.py
+1=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_l9\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+2
+has|1|hash_table!1^11#5*18@
+hs|1|hs!3^14#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

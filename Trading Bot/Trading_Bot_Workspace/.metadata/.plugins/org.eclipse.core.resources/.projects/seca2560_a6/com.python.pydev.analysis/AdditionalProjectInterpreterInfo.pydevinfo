@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\seca2560_a6\com.python.pydev.analysis\v2_indexcache
+t01|1583426164000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a6\src\t01.py
+t02|1583257760000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a6\src\t02.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=t01
+3=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a6\src\t02.py
+4=t02
+1=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a6\src\t01.py
+-- END DICTIONARY
+-- START TREE 1
+8
+key|1|key!1^44#1*19@
+l|1|l!1^15#1*19@
+l1|1|l1!3^28#1*35@
+l2|2|l2!3^29#1*35@l2!1^16#1*19@
+ll|2|ll!3^15#1*35@ll!1^13#1*19@
+ll2|1|ll2!1^14#1*19@
+lst|1|lst!3^17#1*35@
+tar|1|target!1^38#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

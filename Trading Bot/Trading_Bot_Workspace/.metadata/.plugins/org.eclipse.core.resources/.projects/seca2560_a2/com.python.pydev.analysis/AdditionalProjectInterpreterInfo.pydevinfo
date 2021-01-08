@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\seca2560_a2\com.python.pydev.analysis\v2_indexcache
+t01|1579009111000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a2\src\t01.py
+t03|1578942569000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a2\src\t03.py
+t02|1578942236000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a2\src\t02.py
+t05|1578962074000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a2\src\t05.py
+t04|1579614607000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a2\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+1=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a2\src\t03.py
+3=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a2\src\t02.py
+7=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a2\src\t04.py
+5=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a2\src\t05.py
+10=t01
+2=t03
+9=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a2\src\t01.py
+4=t02
+6=t05
+8=t04
+-- END DICTIONARY
+-- START TREE 1
+8
+avg|2|avg!1^19#1*19@avg!3^18#1*35@
+foo|5|foods!5^14#1*51@foods!7^14#1*67@foods!1^15#1*19@foods!3^15#1*35@foods!9^27#1*83@
+fv|5|fv!1^14#1*19@fv!3^14#1*35@fv!9^26#1*83@fv!7^13#1*67@fv!5^13#1*51@
+is_|1|is_veg!5^18#1*51@
+max|1|max_cals!5^17#1*51@
+ori|3|origin!5^16#1*51@origin!9^28#1*83@origin!1^18#1*19@
+res|1|result!5^19#1*51@
+v|1|v!9^29#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

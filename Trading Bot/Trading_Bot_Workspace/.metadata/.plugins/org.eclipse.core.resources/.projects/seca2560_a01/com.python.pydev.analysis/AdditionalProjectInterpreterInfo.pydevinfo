@@ -1,0 +1,65 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\seca2560_a01\com.python.pydev.analysis\v2_indexcache
+t10|1579105941000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t10.py
+functions|1579105817000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\functions.py
+t01|1578517883000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t01.py
+t03|1578528974000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t03.py
+t02|1578525165000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t02.py
+t05|1578526650000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t05.py
+t04|1578528989000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t04.py
+t07|1579033962000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t07.py
+t06|1578528393000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t06.py
+t09|1578582559000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t09.py
+t08|1578532246000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+5=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t05.py
+1=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t06.py
+13=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t03.py
+15=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t04.py
+10=functions
+17=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t02.py
+3=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t01.py
+9=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\functions.py
+21=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t10.py
+22=t10
+4=t01
+14=t03
+18=t02
+6=t05
+16=t04
+8=t07
+2=t06
+20=t09
+7=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t07.py
+11=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t08.py
+12=t08
+19=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a01\src\t09.py
+-- END DICTIONARY
+-- START TREE 1
+19
+a|4|a!1^12#1*19@a!3^12#1*35@a!5^12#1*51@a!7^14#1*67@
+b|2|b!1^13#1*19@b!5^13#1*51@
+dsm|1|dsmvwl!9^254#5*82@
+f|1|f!11^12#1*99@
+fil|1|file_analyze!9^233#5*82@
+gen|1|generate_matrix_num!9^44#5*82@
+is_|1|is_valid!9^99#5*82@
+mat|7|matrixes_add!9^177#5*82@matrix_rotate_right!9^216#5*82@matrix_stats!9^127#5*82@matrix!13^14#1*115@matrixes_multiply!9^198#5*82@matrix!15^14#1*131@matrix_flatten!9^158#5*82@
+max|1|max_diff!9^79#5*82@
+md|1|md!3^13#1*35@
+nam|1|name!17^12#1*147@
+out|1|out!19^15#1*163@
+pig|1|pig_latin!9^277#5*82@
+pl|1|pl!21^13#1*179@
+res|2|result!7^17#1*67@result!1^15#1*19@
+sen|1|sentence!19^12#1*163@
+tex|1|text_analyze!9^13#5*82@
+val|1|valid!17^13#1*147@
+wor|1|word!21^12#1*179@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

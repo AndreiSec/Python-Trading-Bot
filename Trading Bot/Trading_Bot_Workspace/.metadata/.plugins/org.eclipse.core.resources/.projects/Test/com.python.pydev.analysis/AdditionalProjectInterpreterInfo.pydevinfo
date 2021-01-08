@@ -1,0 +1,63 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Test\com.python.pydev.analysis\v2_indexcache
+Test|1605823286209664300|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\Test\Test.py
+Hammertest|1589071245000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\Test\Hammertest.py
+The_Rat_Race|1581526000000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\Test\The_Rat_Race.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+1=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\Test\Test.py
+9=List.clean
+2=Test
+5=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\Test\Hammertest.py
+7=List
+3=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\Test\The_Rat_Race.py
+4=The_Rat_Race
+6=Hammertest
+12=List.split
+10=List.remove_many
+11=List.reverse
+8=List.__init__
+-- END DICTIONARY
+-- START TREE 1
+7
+cha|1|characters!1^9#5*19@
+lin|1|lines!1^7#5*19@
+lis|1|List!3^15#7*33@
+t1|1|t1!5^8#1*51@
+t2|1|t2!5^9#1*51@
+wor|2|wordslist!1^11#9*19@words!1^8#5*19@
+x|2|x!1^16#13*19@x!5^10#1*51@
+-- END TREE
+-- START TREE 2
+28
+__c|1|__contains__!7&3^82#9*34@
+__g|1|__getitem__!7&3^30#9*34@
+__i|2|__iter__!7&3^697#9*34@__init__!7&3^17#9*34@
+__l|1|__len__!7&3^48#9*34@
+__s|1|__setitem__!7&3^62#9*34@
+_is|1|_is_valid_index!7&3^99#9*34@
+_li|1|_linear_search!7&3^118#9*34@
+_sw|1|_swap!7&3^140#9*34@
+_va|5|_values!8&3^27#9*35@_values!9&3^216#9*35@_values!10&3^560#13*35@_values!11&3^579#9*35@_values!12&3^615#9*35@
+app|2|apply!7&3^182#9*34@append!7&3^166#9*34@
+cle|1|clean!7&3^200#9*34@
+com|1|combine!7&3^220#9*34@
+cop|1|copy!7&3^244#9*34@
+cou|1|count!7&3^258#9*34@
+fin|1|find!7&3^277#9*34@
+ind|1|index!7&3^296#9*34@
+ins|1|insert!7&3^318#9*34@
+int|1|intersection!7&3^344#9*34@
+is_|2|is_identical!7&3^382#9*34@is_empty!7&3^368#9*34@
+max|1|max!7&3^401#9*34@
+min|1|min!7&3^421#9*34@
+pee|1|peek!7&3^441#9*34@
+pop|1|pop!7&3^457#9*34@
+pre|1|prepend!7&3^485#9*34@
+rem|3|remove_front!7&3^522#9*34@remove_many!7&3^543#9*34@remove!7&3^501#9*34@
+rev|1|reverse!7&3^568#9*34@
+spl|4|split_key!7&3^660#9*34@split_alt!7&3^618#9*34@split_apply!7&3^639#9*34@split!7&3^583#9*34@
+uni|1|union!7&3^679#9*34@
+-- END TREE

@@ -1,0 +1,60 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Trading_Bot\com.python.pydev.analysis\v2_indexcache
+Documentation_Module|1600296302628359500|C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Documentation_Module.py
+Stock_Module|1601754757678409800|C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Stock_Module.py
+Main_File|1606771013337415500|C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Main_File.py
+Test|1602094853830293500|C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Test.py
+Account_Module|1604181220576806500|C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Account_Module.py
+Email_Module|1601753089681563500|C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Email_Module.py
+Time_Module|1606832825359559300|C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Time_Module.py
+Excel_Module|1601752916011707100|C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Excel_Module.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+7=C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Email_Module.py
+13=C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Test.py
+18=Py_Stock.__init__
+12=Main_File
+1=C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Account_Module.py
+2=Account_Module
+8=Email_Module
+15=C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Documentation_Module.py
+4=Excel_Module
+16=Documentation_Module
+3=C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Excel_Module.py
+6=Stock_Module
+17=Py_Stock
+14=Test
+5=C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Stock_Module.py
+11=C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Main_File.py
+10=Time_Module
+9=C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\Trading_Bot\src\Time_Module.py
+-- END DICTIONARY
+-- START TREE 1
+18
+acc|3|account_1!1^17#1*19@account_balance_updater!1^52#5*18@account_balance_retriever!1^42#5*18@
+buy|2|buy_recorder!1^60#5*18@buy_and_sell!1^82#5*18@
+cre|6|create_price_list!3^31#5*34@create_yesterday_stock_list_object!5^114#5*50@create_stock_list_object!5^92#5*50@create_stock_list!3^13#5*34@create_stock_with_price!5^72#5*50@create_stock!5^36#5*50@
+ema|7|email_recepients!7^18#1*67@email_sender_account!7^11#1*67@email_sender_username!7^12#1*67@email_smtp_server!7^14#1*67@email_sender_password!7^13#1*67@email_subject!7^19#1*67@email_smtp_port!7^15#1*67@
+fin|2|finnhub_client!5^25#1*51@finnhub_token!5^22#1*51@
+get|2|get_time!9^29#5*82@get_date!9^35#5*82@
+iex|1|IEX_TOKEN!5^20#1*51@
+l|1|l!7^23#1*67@
+mai|1|main_loop!11^73#5*98@
+num|2|numbers!13^18#1*115@numberlist!13^20#1*115@
+py_|1|Py_Stock!5^28#7*49@
+sel|1|sell_recorder!1^68#5*18@
+sen|1|send_email!7^25#5*66@
+sin|1|single_stock_price_checker_loop!5^130#5*50@
+sto|3|stock_list_file_name_1!11^53#1*99@stock_list_sheet_1!11^54#1*99@stocks_to_monitor_tickers!11^190#1*99@
+tim|1|time_checker!9^11#5*82@
+twe|1|twelve_data_token!5^21#1*51@
+wri|1|write_original_stock_list!15^9#5*130@
+-- END TREE
+-- START TREE 2
+3
+__i|1|__init__!17&5^29#9*50@
+pri|1|price!18&5^31#9*51@
+tic|1|ticker!18&5^30#9*51@
+-- END TREE

@@ -1,0 +1,48 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\seca2560_a3\com.python.pydev.analysis\v2_indexcache
+functions|1581455066000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\functions.py
+t01|1579787807000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t01.py
+t03|1579790074000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t03.py
+t02|1579788493000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t02.py
+t05|1579793239000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t05.py
+t04|1579790196000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t04.py
+t07|1580324643000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t07.py
+t06|1580490891000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+4=functions
+13=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t03.py
+15=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t04.py
+11=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t02.py
+9=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t01.py
+3=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\functions.py
+10=t01
+14=t03
+12=t02
+1=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t06.py
+8=t05
+16=t04
+6=t07
+7=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t05.py
+2=t06
+5=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\seca2560_a3\src\t07.py
+-- END DICTIONARY
+-- START TREE 1
+11
+ans|1|answer!1^15#1*19@
+is_|1|is_palindrome_stack!3^69#5*34@
+maz|1|maze!5^15#1*51@
+ope|1|OPERATORS!3^123#1*35@
+pal|1|palindrome!7^14#1*67@
+pos|1|postfix!3^125#5*34@
+s|2|s!9^14#1*83@s!11^18#1*99@
+sou|4|source1!13^15#1*115@source2!15^14#1*131@source2!13^16#1*115@source1!15^13#1*131@
+sta|3|stack_combine!3^39#5*34@stack_split_alt!3^15#5*34@stack_maze!3^170#5*34@
+str|2|string!7^13#1*67@string!1^14#1*19@
+tar|2|target!15^26#1*131@target!13^30#1*115@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

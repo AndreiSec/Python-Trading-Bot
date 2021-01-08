@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\andrei\Desktop\Trading Bot\Trading_Bot_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Final_exam_testing\com.python.pydev.analysis\v2_indexcache
+Pt_Tree_testig|1587583626000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\Final_exam_testing\src\Pt_Tree_testig.py
+Linked_set_testing|1587523487000000000|C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\Final_exam_testing\src\Linked_set_testing.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\Final_exam_testing\src\Pt_Tree_testig.py
+2=Pt_Tree_testig
+4=Linked_set_testing
+3=C:\Users\andrei\OneDrive - Wilfrid Laurier University\FIRST YEAR\CP164\Final_exam_testing\src\Linked_set_testing.py
+-- END DICTIONARY
+-- START TREE 1
+4
+let|1|letters!1^16#1*19@
+pt|1|pt!1^15#1*19@
+sep|1|SEP!1^14#1*19@
+set|3|set!3^14#1*35@set2!3^15#1*35@set4!3^36#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
