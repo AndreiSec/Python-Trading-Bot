@@ -15,8 +15,8 @@ email_smtp_server = "smtp.gmail.com"
 email_smtp_port = 587
 
 #Email Content
-email_recepients = ["andreisecara01@gmail.com", "tavi@thisisthequestion.com"]
-email_subject = "Stocks that opened 5% below close."
+email_recepients = ["riad6590@mylaurier.ca"]
+email_subject = "Your laurier gym booking"
 # email_body = "<html of your body here>"
 
 
