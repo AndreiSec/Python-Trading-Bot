@@ -10,13 +10,13 @@ from email.mime.text import MIMEText
 #Email Account
 email_sender_account = "KMD SOUNDS"
 email_sender_username = "kmdsounds@gmail.com"
-email_sender_password = "!Tradingbot123"
+email_sender_password = read("email_password.txt")
 email_smtp_server = "smtp.gmail.com"
 email_smtp_port = 587
 
 #Email Content
 email_recepients = ["riad6590@mylaurier.ca"]
-email_subject = "Your laurier gym booking"
+email_subject = "Stock Update"
 # email_body = "<html of your body here>"
 
 
