@@ -17,9 +17,9 @@ from copy import deepcopy
 import finnhub
 
 
-IEX_TOKEN = "pk_1faa5416765b436f9ed2b9ecaf85c85b"
-twelve_data_token = "10d1210205e34480830f0e8bf775865d"
-finnhub_token = "btqi9qn48v6t9hddbd00"
+IEX_TOKEN = read("iex_token.txt")
+twelve_data_token = read("twelve_data_token.txt")
+finnhub_token = read("finnhub_token.txt")
 # td = TDClient(apikey = twelve_data_token)  
 
 finnhub_client = finnhub.Client(api_key=finnhub_token)
